@@ -34,10 +34,7 @@ in the desktop interface.
 
 ## Requirements
 
-- Windows, macOS, or Linux with a graphical desktop session.
 - Python 3.10 or newer.
-- Tkinter, which is included with most standard Python installations. On some
-  Linux distributions it must be installed as a separate system package.
 - FFmpeg installed and available on `PATH`. The application uses it for MP3
   audio extraction.
 - Python packages listed in [`requirements.txt`](requirements.txt).
