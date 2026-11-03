@@ -52,7 +52,7 @@ python -m pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
-Install FFmpeg separately, then make sure both `ffmpeg` and `ffprobe` are
+Install FFmpeg separately (https://ffmpeg.org/download.html), then make sure both `ffmpeg` and `ffprobe` are
 available on `PATH`. To check:
 
 ```powershell
