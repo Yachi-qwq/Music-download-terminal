@@ -81,13 +81,6 @@ python -m pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
-If Tkinter is missing on Linux, install the Tkinter package provided by your
-distribution. Then launch the application:
-
-```bash
-python main.py
-```
-
 ## Using the application
 
 1. Start the app with `python main.py`.
